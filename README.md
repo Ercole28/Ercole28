@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ercole28 you can call me Ercole
+- 👋 Hi, I’m Bradley Andrew Ercole, you can call me Brad.
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning Front-End Development & Back-End Development
 
 
 <!---
