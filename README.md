@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Bradley Andrew Ercole, you can call me Brad.
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Front-End Development & Back-End Development
+👋 Hi, I’m Bradley Andrew Ercole, you can call me Brad.
+👀 I’m interested in Web Development
+🌱 I’m currently learning Front-End Development & Back-End Development
+✨ Currently Learning Laravel 10 & Vue JS 3
 
 
 <!---
