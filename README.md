@@ -22,7 +22,7 @@ I'm dedicated to enhancing my knowledge and expertise in web development, stayin
 
 If you're interested in collaborating or have any questions, feel free to reach out to me. Let's connect and create something awesome together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bradley%20Andrew%20Ercole-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bradleyandrewercole/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bradley%20Andrew%20Ercole-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bradley-andrew-ercole-14908a1a7/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bradleyganap.com-orange?style=flat-square)](https://www.bradleyganap.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BradErcole-black?style=flat-square&logo=github)](https://github.com/BradErcole)
 
