@@ -9,8 +9,11 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
   - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+  - ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 
 - Back-End Development:
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
   - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
   - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
