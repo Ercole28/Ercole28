@@ -19,6 +19,7 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 
 - Database:
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 - Version Control:
   - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
