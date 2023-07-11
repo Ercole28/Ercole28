@@ -4,9 +4,9 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 
 ## 💻 Technologies and Skills
 
-- Front-End Development: HTML, CSS, JavaScript, Vue.js
-- Back-End Development: PHP, Laravel
-- Database: MySQL
+- Front-End Development: HTML, CSS, JavaScript, Vue.js 3, React.js
+- Back-End Development: PHP, Laravel 10, NodeJS, ExpressJS
+- Database: MySQL, PostgreeSQL
 - Version Control: Git
 - Other Tools: VS Code, Postman, Figma
 
