@@ -30,7 +30,7 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 
 ## 🌱 Currently Learning
 
-I'm currently diving deep into Laravel 10 and Vue.js 3. These technologies are empowering me to build robust and scalable web applications.
+In addition to diving deep into Laravel 10 and Vue.js 3, I'm also actively expanding my skills by learning React and Node.js. By incorporating these technologies into my professional development, I am equipping myself to build a wide range of robust and scalable web applications.
 
 ## 🚀 Goals
 
