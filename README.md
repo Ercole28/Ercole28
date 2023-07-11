@@ -4,11 +4,26 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 
 ## 💻 Technologies and Skills
 
-- Front-End Development: HTML, CSS, JavaScript, Vue.js 3, React.js
-- Back-End Development: PHP, Laravel 10, NodeJS, ExpressJS
-- Database: MySQL, PostgreeSQL
-- Version Control: Git
-- Other Tools: VS Code, Postman, Figma
+- Front-End Development:
+  - ![HTML](https://img.shields.io/badge/HTML-green)
+  - ![CSS](https://img.shields.io/badge/CSS-blue)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-brightgreen)
+
+- Back-End Development:
+  - ![PHP](https://img.shields.io/badge/PHP-purple)
+  - ![Laravel](https://img.shields.io/badge/Laravel-orange)
+
+- Database:
+  - ![MySQL](https://img.shields.io/badge/MySQL-blueviolet)
+
+- Version Control:
+  - ![Git](https://img.shields.io/badge/Git-red)
+
+- Other Tools:
+  - ![VS Code](https://img.shields.io/badge/VS%20Code-blue)
+  - ![Postman](https://img.shields.io/badge/Postman-orange)
+  - ![Figma](https://img.shields.io/badge/Figma-violet)
 
 ## 🌱 Currently Learning
 
