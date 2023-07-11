@@ -5,25 +5,25 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 ## 💻 Technologies and Skills
 
 - Front-End Development:
-  - ![HTML](https://img.shields.io/badge/HTML-green)
-  - ![CSS](https://img.shields.io/badge/CSS-blue)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-  - ![Vue.js](https://img.shields.io/badge/Vue.js-brightgreen)
+  - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 - Back-End Development:
-  - ![PHP](https://img.shields.io/badge/PHP-purple)
-  - ![Laravel](https://img.shields.io/badge/Laravel-orange)
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+  - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
 - Database:
-  - ![MySQL](https://img.shields.io/badge/MySQL-blueviolet)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 - Version Control:
-  - ![Git](https://img.shields.io/badge/Git-red)
+  - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 - Other Tools:
-  - ![VS Code](https://img.shields.io/badge/VS%20Code-blue)
-  - ![Postman](https://img.shields.io/badge/Postman-orange)
-  - ![Figma](https://img.shields.io/badge/Figma-violet)
+  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
+  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ## 🌱 Currently Learning
 
