@@ -8,8 +8,8 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
   - ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
   - ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 - Back-End Development:
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -31,7 +31,7 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 
 ## 🌱 Currently Learning
 
-In addition to diving deep into Laravel 10 and Vue.js 3, I'm also actively expanding my skills by learning React and Node.js. By incorporating these technologies into my professional development, I am equipping myself to build a wide range of robust and scalable web applications.
+In addition to diving deep into React.js and Node.js , I'm also actively expanding my skills by learning Laravel 10 and Vue.js 3. By incorporating these technologies into my professional development, I am equipping myself to build a wide range of robust and scalable web applications.
 
 ## 🚀 Goals
 
