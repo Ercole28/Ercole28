@@ -30,7 +30,7 @@ I'm a passionate web developer with a focus on both front-end and back-end devel
 
 ## 🌱 Currently Learning
 
-In addition to diving deep into React.js and Node.js , I'm also actively expanding my skills by NextJS. By incorporating these technologies into my professional development, I am equipping myself to build a wide range of robust and scalable web applications.
+In addition to diving deep into React.js and Node.js , I'm also actively expanding my skills by learning NextJS & other robust tech. By incorporating these technologies into my professional development, I am equipping myself to build a wide range of robust and scalable web applications.
 
 ## 🚀 Goals
 
